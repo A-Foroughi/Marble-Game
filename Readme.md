@@ -1,0 +1,1 @@
+This is a 2 player game that each player takes 1 or 2 marbles every turn. Who takes the last one wins.
