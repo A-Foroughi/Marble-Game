@@ -25,4 +25,4 @@ while n > 0:
     n = n - m
     print(f"I take {m}.")
     t = 0
-print("I won. Easy")    
+print("I won. Easy \U0001F609")    
